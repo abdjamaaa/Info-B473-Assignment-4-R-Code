@@ -1,7 +1,7 @@
 # Assignment 4 - R Code
 
 **Name:** Abdul Djama  
-**Course:** INFO-B473/B573  
+**Course:** Info-B473/573 
 **Date:** November 8, 2026
 
 ## Description
